@@ -1,5 +1,6 @@
-# Communication
-Where we decentralize Giveth Communicationq 
+# Giveth Communications
+
+**_Where we decentralize Giveth Communications_** 
 
 Hey, welcome to the Giveth Communications Circle!
 
