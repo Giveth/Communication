@@ -4,7 +4,7 @@
 
 Hey, welcome to the Giveth Communications Circle!
 
-How can you see the overview of all the projects we are working on? 
+How can you see the overview of all the projects we are working on! 
 
 - Install the zenhub extension [here](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd)
 - Hit the Zenhub tab at the top or click [here](https://github.com/Giveth/Communication#boards)
